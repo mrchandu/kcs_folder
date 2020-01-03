@@ -1,0 +1,5 @@
+https://www.murata.com/en-sg/support/faqs/products/lpwa/lora/hardware/0009
+https://www.multitech.net/developer/software/lora/lora-network-server/
+https://new.siemens.com/global/en/products/automation/systems/industrial/plc/logo/logo-application-examples.html
+https://plc4me.com/download-logo-soft-comfort-v8-1-siemens-software-real-100/
+https://medium.com/@erinus/mosquitto-paho-mqtt-python-29cadb6f8f5c

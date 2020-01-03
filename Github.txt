@@ -1,0 +1,10 @@
+create repository with readme file in github.com
+open git bash in folder
+run git clone space repository link Ex:git clone https://github.com/satish-techie/spring-boot-thymeleaf-example.git
+copy project folder to repository folder that has redme file or .git file
+change to repository folder 
+run git add * or git add folder name
+run git commit -m "commit_note" ex:git commit -m "Flask_login_page_for_IoT_Edge_Gateway"
+run git config --global user.email "mrchandu50@gmail.com"
+run git commmit -a
+run git push origin master
